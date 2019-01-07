@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://thiagomatos.art/index.html</loc>
+    <lastmod>2019-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo%20quadrada26x29_2x.png</loc>
+    <lastmod>2019-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo%20quadrada26x29.png</loc>
+    <lastmod>2019-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo%20quadrada_2x.png</loc>
+    <lastmod>2019-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo%20quadrada.png</loc>
+    <lastmod>2019-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

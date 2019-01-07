@@ -1,0 +1,51 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="thiagomatos.art" resolutions="1x,2x" timestamp="1546804329825">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="508335737" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="508052548" ref="index"/>
+    <file name="index.css" crc="4204522997" ref="index"/>
+    <file name="nomq_index.css" crc="3847176235" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="coves-bold.woff" crc="3897974934"/>
+    <file name="coves-bold.eot" crc="532774893"/>
+    <file name="coves-bold.svg" crc="459908972"/>
+    <file name="coves-light.woff" crc="450049354"/>
+    <file name="coves-light.eot" crc="4099915339"/>
+    <file name="coves-light.svg" crc="302050242"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="background 2.jpg" crc="4203935737" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="logo quadrada26x29.png" crc="269231178" seo="true" ref="index"/>
+    <file name="logo quadrada26x29_2x.png" crc="130329913" seo="true" ref="index"/>
+    <file name="button_motion.jpg" crc="132850966" ref="index"/>
+    <file name="play_icon_2.png" crc="514158228" ref="index"/>
+    <file name="play_icon.png" crc="3879340343" ref="index"/>
+    <file name="play_icon_2x.png" crc="3954075169" ref="index"/>
+    <file name="play_icon_2-u50055-r-fr.png" crc="313048671" ref="index"/>
+    <file name="play_icon_2-u50055-r-fr_2x.png" crc="4273017194" ref="index"/>
+    <file name="design_icon.png" crc="80233315" ref="index"/>
+    <file name="design_icon_2x.png" crc="254735540" ref="index"/>
+    <file name="design_icon_2.png" crc="14492501" ref="index"/>
+    <file name="design_icon_2_2x.png" crc="463907947" ref="index"/>
+    <file name="play_icon_2-u50055-r-fr2.png" crc="4080439596" ref="index"/>
+    <file name="play_icon_2-u50055-r-fr_2x2.png" crc="24944359" ref="index"/>
+    <file name="logo quadrada.png" crc="229004295" seo="true" ref="index"/>
+    <file name="logo quadrada_2x.png" crc="130329913" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="381481483" seo="true" mt="1546804226373" redirect="true"/>
+</manifest>
