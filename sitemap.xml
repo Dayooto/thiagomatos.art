@@ -2,31 +2,157 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://thiagomatos.art/index.html</loc>
-    <lastmod>2019-01-06</lastmod>
+    <lastmod>2019-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thiagomatos.art/images/logo%20quadrada26x29_2x.png</loc>
-    <lastmod>2019-01-06</lastmod>
+    <loc>http://thiagomatos.art/design.html</loc>
+    <lastmod>2019-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thiagomatos.art/images/logo%20quadrada26x29.png</loc>
-    <lastmod>2019-01-06</lastmod>
+    <loc>http://thiagomatos.art/motion.html</loc>
+    <lastmod>2019-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://thiagomatos.art/images/logo%20quadrada_2x.png</loc>
-    <lastmod>2019-01-06</lastmod>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo%20quadrada91x91.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo%20quadrada91x91_2x.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo_cordel.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo_cordel_2x.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/facebook_icon.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/facebook_icon_2x.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/linkedin_icon.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/linkedin_icon_2x.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo%20quadrada26x29.png</loc>
+    <lastmod>2019-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://thiagomatos.art/images/logo%20quadrada.png</loc>
-    <lastmod>2019-01-06</lastmod>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/linkedin_icon34x34_2x.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo%20quadrada30x33.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo%20quadrada30x33_2x.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo%20quadrada132x132.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo%20quadrada132x132_2x.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo_morador118x115.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo_morador118x115_2x.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo_morador.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo_morador_2x.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo%20quadrada26x29_2x.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/logo%20vertical.png</loc>
+    <lastmod>2019-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thiagomatos.art/images/linkedin_icon34x34.png</loc>
+    <lastmod>2019-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
