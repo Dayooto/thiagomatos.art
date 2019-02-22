@@ -1,15 +1,30 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="thiagomatos.art" resolutions="1x,2x" timestamp="1547044942233">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="thiagomatos.art" resolutions="1x,2x" timestamp="1550156019024">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="4202180315" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="508052548" ref="index"/>
-    <file name="index.css" crc="208072337" ref="index"/>
-    <file name="nomq_index.css" crc="3952824345" ref="index"/>
-    <file name="master_b-master.css" crc="402438438" ref="design:motion"/>
-    <file name="design.css" crc="3956369224" ref="design"/>
-    <file name="motion.css" crc="4170008509" ref="motion"/>
+    <file name="master_b-master.css" crc="3929826710" ref="design:motion"/>
+    <file name="nomq_preview_master_b-master.css" crc="3824530138" ref="design:motion"/>
+    <file name="master_a-master.css" crc="496099069" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="252464333" ref="index"/>
+    <file name="design.css" crc="99678396" ref="design"/>
+    <file name="nomq_design.css" crc="3770267180" ref="design"/>
+    <file name="index.css" crc="4196496411" ref="index"/>
+    <file name="nomq_index.css" crc="4140197281" ref="index"/>
+    <file name="motion.css" crc="275489944" ref="motion"/>
+    <file name="nomq_motion.css" crc="3777765891" ref="motion"/>
   </folder>
   <folder name="fonts">
+    <file name="coves-bold.woff" crc="3897974934"/>
+    <file name="coves-bold.eot" crc="532774893"/>
+    <file name="coves-bold.svg" crc="459908972"/>
+    <file name="coves-light.woff" crc="450049354"/>
+    <file name="coves-light.eot" crc="4099915339"/>
+    <file name="coves-light.svg" crc="302050242"/>
+    <file name="coves-bold.woff" crc="3897974934"/>
+    <file name="coves-bold.eot" crc="532774893"/>
+    <file name="coves-bold.svg" crc="459908972"/>
+    <file name="coves-light.woff" crc="450049354"/>
+    <file name="coves-light.eot" crc="4099915339"/>
+    <file name="coves-light.svg" crc="302050242"/>
     <file name="coves-bold.woff" crc="3897974934"/>
     <file name="coves-bold.eot" crc="532774893"/>
     <file name="coves-bold.svg" crc="459908972"/>
@@ -21,58 +36,109 @@
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:motion:design"/>
     <file name="museutils.js" crc="163421577" ref="index:motion:design"/>
     <file name="whatinput.js" crc="86476730" ref="index:motion:design"/>
-    <file name="museconfig.js" crc="36584860" ref="index:motion:design"/>
+    <file name="museconfig.js" crc="168988563" ref="index:motion:design"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:motion:design"/>
     <file name="jquery.watch.js" crc="104486786" ref="index:motion:design"/>
     <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index:motion:design"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:motion:design"/>
-    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index:motion:design"/>
-    <file name="webpro.js" crc="3848665353" ref="index:motion"/>
+    <file name="webpro.js" crc="3848665353" ref="index:motion:design"/>
     <file name="form_check.php" crc="158155501" ref="index"/>
     <file name="form_throttle.php" crc="3992970984" ref="index"/>
     <file name="form_process.php" crc="4078697226" ref="index"/>
     <file name="form-u67353.php" crc="3759414970" ref="index"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="motion"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="motion"/>
-    <file name="touchswipe.js" crc="404375771" ref="motion"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index:motion:design"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:motion:design"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:motion:design"/>
+    <file name="require.js" crc="244322403" ref="index:motion:design"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="motion:design"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="motion:design"/>
+    <file name="touchswipe.js" crc="404375771" ref="motion:design"/>
   </folder>
   <folder name="images">
     <file name="background 2.jpg" crc="4203935737" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:motion:design"/>
     <file name="logo quadrada26x29.png" crc="215736928" seo="true" ref="index"/>
     <file name="logo quadrada26x29_2x.png" crc="4173782555" seo="true" ref="index"/>
+    <file name="logo quadrada91x91.png" crc="509488344" seo="true" ref="index"/>
+    <file name="logo quadrada91x91_2x.png" crc="3898849396" seo="true" ref="index"/>
+    <file name="logo_morador.png" crc="77605997" seo="true" ref="index"/>
+    <file name="logo_morador_2x.png" crc="4236219136" seo="true" ref="index"/>
+    <file name="logo_cordel.png" crc="70149869" seo="true" ref="index"/>
+    <file name="logo_cordel_2x.png" crc="4051149446" seo="true" ref="index"/>
     <file name="button_motion.jpg" crc="132850966" ref="index"/>
-    <file name="play_icon_2.png" crc="514158228" ref="index"/>
     <file name="play_icon.png" crc="3879340343" ref="index"/>
     <file name="play_icon_2x.png" crc="3954075169" ref="index"/>
-    <file name="play_icon_2-u50055-r-fr.png" crc="313048671" ref="index"/>
-    <file name="play_icon_2-u50055-r-fr_2x.png" crc="4273017194" ref="index"/>
+    <file name="play_icon_2.png" crc="4154788566" ref="index"/>
+    <file name="play_icon_2_2x.png" crc="473852951" ref="index"/>
     <file name="design_icon.png" crc="80233315" ref="index"/>
     <file name="design_icon_2x.png" crc="254735540" ref="index"/>
     <file name="design_icon_2.png" crc="14492501" ref="index"/>
     <file name="design_icon_2_2x.png" crc="463907947" ref="index"/>
-    <file name="play_icon_2-u50055-r-fr2.png" crc="4080439596" ref="index"/>
-    <file name="play_icon_2-u50055-r-fr_2x2.png" crc="24944359" ref="index"/>
-    <file name="logo quadrada.png" crc="3898849396" seo="true" ref="motion"/>
-    <file name="logo quadrada_2x.png" crc="3898849396" seo="true" ref="motion"/>
-    <file name="logo quadrada91x91.png" crc="509488344" seo="true" ref="index"/>
-    <file name="logo quadrada91x91_2x.png" crc="3898849396" seo="true" ref="index"/>
-    <file name="logo_cordel.png" crc="70149869" seo="true" ref="index"/>
-    <file name="logo_cordel_2x.png" crc="4051149446" seo="true" ref="index"/>
     <file name="facebook_icon.png" crc="4035421830" seo="true" ref="index"/>
     <file name="facebook_icon_2x.png" crc="439789451" seo="true" ref="index"/>
     <file name="linkedin_icon.png" crc="88984980" seo="true" ref="index"/>
     <file name="linkedin_icon_2x.png" crc="520100729" seo="true" ref="index"/>
-    <file name="16641002_983713835094166_8760114595500848315_n.jpg" crc="3962788134" ref="index:motion"/>
-    <file name="16641002_983713835094166_8760114595500848315_n_2x.jpg" crc="3855305158" ref="index:motion"/>
+    <file name="16641002_983713835094166_8760114595500848315_n.jpg" crc="334464274" ref="index:motion"/>
+    <file name="16641002_983713835094166_8760114595500848315_n_2x.jpg" crc="3917513947" ref="index:motion"/>
     <file name="logo vertical.png" crc="385513713" seo="true" ref="index:motion:design"/>
+    <file name="logo quadrada32x31.png" crc="301132823" seo="true" ref="index"/>
+    <file name="logo quadrada32x31_2x.png" crc="351485425" seo="true" ref="index"/>
+    <file name="logo quadrada81x81.png" crc="409525268" seo="true" ref="index"/>
+    <file name="logo quadrada81x81_2x.png" crc="3898849396" seo="true" ref="index"/>
+    <file name="logo_morador102x102.png" crc="218310819" seo="true" ref="index"/>
+    <file name="logo_morador102x102_2x.png" crc="401089678" seo="true" ref="index"/>
+    <file name="logo_cordel129x117.png" crc="137616649" seo="true" ref="index"/>
+    <file name="logo_cordel129x117_2x.png" crc="4051149446" seo="true" ref="index"/>
     <file name="linkedin_icon34x34.png" crc="173865114" seo="true" ref="index"/>
     <file name="linkedin_icon34x34_2x.png" crc="520100729" seo="true" ref="index"/>
     <file name="logo quadrada30x33.png" crc="301132823" seo="true" ref="index"/>
     <file name="logo quadrada30x33_2x.png" crc="130329913" seo="true" ref="index"/>
+    <file name="logo quadrada73x73.png" crc="44313117" seo="true" ref="index"/>
+    <file name="logo quadrada73x73_2x.png" crc="3898849396" seo="true" ref="index"/>
+    <file name="logo_morador92x92.png" crc="4236752134" seo="true" ref="index"/>
+    <file name="logo_morador92x92_2x.png" crc="4070690316" seo="true" ref="index"/>
+    <file name="logo_cordel116x105.png" crc="4257452535" seo="true" ref="index"/>
+    <file name="logo_cordel116x105_2x.png" crc="126364433" seo="true" ref="index"/>
+    <file name="design_icon-u51993-fr.png" crc="300396683" ref="index"/>
+    <file name="design_icon-u51993-fr_2x.png" crc="3961631077" ref="index"/>
+    <file name="design_icon_2-u51993-r-fr.png" crc="431711517" ref="index"/>
+    <file name="design_icon_2-u51993-r-fr_2x.png" crc="137865377" ref="index"/>
+    <file name="logo quadrada61x61.png" crc="530646061" seo="true" ref="index"/>
+    <file name="logo quadrada61x61_2x.png" crc="3995570375" seo="true" ref="index"/>
+    <file name="logo_morador76x76.png" crc="214931967" seo="true" ref="index"/>
+    <file name="logo_morador76x76_2x.png" crc="95605266" seo="true" ref="index"/>
+    <file name="logo_cordel96x87.png" crc="362787067" seo="true" ref="index"/>
+    <file name="logo_cordel96x87_2x.png" crc="31534666" seo="true" ref="index"/>
+    <file name="logo quadrada53x53.png" crc="244772262" seo="true" ref="index"/>
+    <file name="logo quadrada53x53_2x.png" crc="4120714775" seo="true" ref="index"/>
+    <file name="logo_morador67x66.png" crc="3810031130" seo="true" ref="index"/>
+    <file name="logo_morador67x66_2x.png" crc="3895082287" seo="true" ref="index"/>
+    <file name="logo_cordel84x76.png" crc="3958609282" seo="true" ref="index"/>
+    <file name="logo_cordel84x76_2x.png" crc="3798593588" seo="true" ref="index"/>
+    <file name="button_motion2.jpg" crc="93992329" ref="index"/>
+    <file name="button_motion_2x.jpg" crc="132850966" ref="index"/>
+    <file name="play_icon-u50055-fr.png" crc="4106486606" ref="index"/>
+    <file name="play_icon-u50055-fr_2x.png" crc="116426525" ref="index"/>
+    <file name="play_icon_2-u50055-r-fr.png" crc="4264976132" ref="index"/>
+    <file name="play_icon_2-u50055-r-fr_2x.png" crc="298876915" ref="index"/>
+    <file name="design_icon-u51993-fr2.png" crc="4132346196" ref="index"/>
+    <file name="design_icon-u51993-fr_2x2.png" crc="322228280" ref="index"/>
+    <file name="design_icon_2-u51993-r-fr2.png" crc="4230730083" ref="index"/>
+    <file name="design_icon_2-u51993-r-fr_2x2.png" crc="203614986" ref="index"/>
+    <file name="logo quadrada42x43.png" crc="3874063063" seo="true" ref="index"/>
+    <file name="logo quadrada42x43_2x.png" crc="3908139912" seo="true" ref="index"/>
+    <file name="logo_morador54x53.png" crc="23464007" seo="true" ref="index"/>
+    <file name="logo_morador54x53_2x.png" crc="351544104" seo="true" ref="index"/>
+    <file name="logo_cordel69x62.png" crc="93867669" seo="true" ref="index"/>
+    <file name="logo_cordel69x62_2x.png" crc="4128932094" seo="true" ref="index"/>
+    <file name="button_motion-buttonu39090-fr.jpg" crc="158365770" ref="index"/>
+    <file name="button_motion-buttonu39090-fr_2x.jpg" crc="90423440" ref="index"/>
+    <file name="button_motion-buttonu50394-fr.jpg" crc="24589663" ref="index"/>
+    <file name="button_motion-buttonu50394-fr_2x.jpg" crc="4090845577" ref="index"/>
+    <file name="logo vertical70x43.png" crc="185946862" seo="true" ref="index"/>
+    <file name="logo vertical88x50.png" crc="3998569129" seo="true" ref="index"/>
     <file name="background_motion.jpg" crc="3962053584" ref="motion:design"/>
+    <file name="logo quadrada.png" crc="3898849396" seo="true" ref="motion"/>
+    <file name="logo quadrada_2x.png" crc="3898849396" seo="true" ref="motion"/>
     <file name="poligono_motion.jpg" crc="4236949244" ref="motion"/>
     <file name="poligono_motion_2x.jpg" crc="157388342" ref="motion"/>
     <file name="poligono_motion_rollover.jpg" crc="4023758213" ref="motion"/>
@@ -101,23 +167,78 @@
     <file name="blueanchor_2x.jpg" crc="4057500463" ref="motion"/>
     <file name="blueanchor_rollover.jpg" crc="4200432409" ref="motion"/>
     <file name="blueanchor_rollover_2x.jpg" crc="3974953138" ref="motion"/>
+    <file name="poligono_motion-u93351-fr.jpg" crc="4189295062" ref="motion"/>
+    <file name="poligono_motion-u93351-fr_2x.jpg" crc="49085516" ref="motion"/>
+    <file name="poligono_motion_rollover-u93351-r-fr.jpg" crc="3967319412" ref="motion"/>
+    <file name="poligono_motion_rollover-u93351-r-fr_2x.jpg" crc="3966223886" ref="motion"/>
+    <file name="poligono_motion-u93351-a-fr.jpg" crc="4189295062" ref="motion"/>
+    <file name="poligono_motion-u93351-a-fr_2x.jpg" crc="49085516" ref="motion"/>
+    <file name="cordel_motion-u93491-fr.jpg" crc="4157295611" ref="motion"/>
+    <file name="cordel_motion-u93491-fr_2x.jpg" crc="4015230012" ref="motion"/>
+    <file name="cordel_motion_rollover-u93491-r-fr.jpg" crc="3955304076" ref="motion"/>
+    <file name="cordel_motion_rollover-u93491-r-fr_2x.jpg" crc="3825943301" ref="motion"/>
+    <file name="cordel_motion-u93491-a-fr.jpg" crc="4157295611" ref="motion"/>
+    <file name="cordel_motion-u93491-a-fr_2x.jpg" crc="4015230012" ref="motion"/>
+    <file name="athos_office_rollover2.jpg" crc="396480901" ref="motion"/>
+    <file name="athos_office_rollover_2x.jpg" crc="166528477" ref="motion"/>
+    <file name="blueanchor-u93540-fr.jpg" crc="529488379" ref="motion"/>
+    <file name="blueanchor-u93540-fr_2x.jpg" crc="3758684221" ref="motion"/>
+    <file name="blueanchor_rollover-u93540-r-fr.jpg" crc="172879129" ref="motion"/>
+    <file name="blueanchor_rollover-u93540-r-fr_2x.jpg" crc="284776291" ref="motion"/>
+    <file name="blueanchor-u93540-a-fr.jpg" crc="529488379" ref="motion"/>
+    <file name="blueanchor-u93540-a-fr_2x.jpg" crc="3758684221" ref="motion"/>
     <file name="logo quadrada132x132.png" crc="3898849396" seo="true" ref="design"/>
     <file name="logo quadrada132x132_2x.png" crc="3898849396" seo="true" ref="design"/>
     <file name="costadourada_design.jpg" crc="3758807220" ref="design"/>
-    <file name="ferroeaco_design.jpg" crc="3895304998" ref="design"/>
-    <file name="ferroeaco_design_2x.jpg" crc="269636064" ref="design"/>
-    <file name="anjosdaluz_design.jpg" crc="4226667648" ref="design"/>
-    <file name="anjosdaluz_design_2x.jpg" crc="334512997" ref="design"/>
+    <file name="costadourada_design_rollover.jpg" crc="180839917" ref="design"/>
     <file name="qaa_design.jpg" crc="3938703474" ref="design"/>
     <file name="qaa_design_2x.jpg" crc="372211408" ref="design"/>
+    <file name="qaa_design_rollover.jpg" crc="92287281" ref="design"/>
+    <file name="qaa_design_rollover_2x.jpg" crc="3995255729" ref="design"/>
+    <file name="ferroeaco_design.jpg" crc="3895304998" ref="design"/>
+    <file name="ferroeaco_design_2x.jpg" crc="269636064" ref="design"/>
+    <file name="ferroeaco_design_rollover.jpg" crc="286270930" ref="design"/>
+    <file name="ferroeaco_design_rollover_2x.jpg" crc="17117441" ref="design"/>
+    <file name="anjosdaluz_design.jpg" crc="4226667648" ref="design"/>
+    <file name="anjosdaluz_design_2x.jpg" crc="334512997" ref="design"/>
+    <file name="anjosdaluz_design_rollover.jpg" crc="402966829" ref="design"/>
+    <file name="anjosdaluz_design_rollover_2x.jpg" crc="2658202" ref="design"/>
     <file name="leosoccol_design.jpg" crc="313470517" ref="design"/>
     <file name="leosoccol_design_2x.jpg" crc="354352379" ref="design"/>
-    <file name="logo_morador118x115.png" crc="77605997" seo="true" ref="index"/>
-    <file name="logo_morador118x115_2x.png" crc="4236219136" seo="true" ref="index"/>
-    <file name="logo_morador.png" crc="502625110" seo="true" ref="index"/>
-    <file name="logo_morador_2x.png" crc="4236219136" seo="true" ref="index"/>
+    <file name="leosoccol_design_rollover.jpg" crc="447252474" ref="design"/>
+    <file name="leosoccol_design_rollover_2x.jpg" crc="4024613970" ref="design"/>
+    <file name="10.jpg" crc="514858923" seo="true" ref="design"/>
+    <file name="11.jpg" crc="302612045" seo="true" ref="design"/>
+    <file name="13.jpg" crc="29722493" seo="true" ref="design"/>
+    <file name="5.jpg" crc="3805222616" seo="true" ref="design"/>
+    <file name="6.jpg" crc="372446890" seo="true" ref="design"/>
+    <file name="8.jpg" crc="4026226844" seo="true" ref="design"/>
+    <file name="4.jpg" crc="519374368" seo="true" ref="design"/>
+    <file name="7.jpg" crc="67618082" seo="true" ref="design"/>
+    <file name="costadourada_design2.jpg" crc="34643742" ref="design"/>
+    <file name="costadourada_design_2x.jpg" crc="3758807220" ref="design"/>
+    <file name="costadourada_design_rollover2.jpg" crc="4289034682" ref="design"/>
+    <file name="costadourada_design_rollover_2x.jpg" crc="180839917" ref="design"/>
+    <file name="costadourada_design-u135923-a-fr.jpg" crc="4259073555" ref="design"/>
+    <file name="costadourada_design-u135923-a-fr_2x.jpg" crc="3862233118" ref="design"/>
+    <file name="qaa_design-u135926-fr.jpg" crc="333470628" ref="design"/>
+    <file name="qaa_design-u135926-fr_2x.jpg" crc="246455069" ref="design"/>
+    <file name="qaa_design_rollover-u135926-r-fr.jpg" crc="55443600" ref="design"/>
+    <file name="qaa_design_rollover-u135926-r-fr_2x.jpg" crc="353495239" ref="design"/>
+    <file name="qaa_design-u135926-a-fr.jpg" crc="333470628" ref="design"/>
+    <file name="qaa_design-u135926-a-fr_2x.jpg" crc="246455069" ref="design"/>
+    <file name="leosoccol_design-u135928-a-fr.jpg" crc="266021873" ref="design"/>
+    <file name="leosoccol_design-u135928-a-fr_2x.jpg" crc="166699736" ref="design"/>
+    <file name="10282x399.jpg" crc="4254812262" seo="true" ref="design"/>
+    <file name="11282x399.jpg" crc="368123926" seo="true" ref="design"/>
+    <file name="13282x399.jpg" crc="3920794139" seo="true" ref="design"/>
+    <file name="5282x140.jpg" crc="165209883" seo="true" ref="design"/>
+    <file name="6282x270.jpg" crc="406879524" seo="true" ref="design"/>
+    <file name="8282x282.jpg" crc="468954907" seo="true" ref="design"/>
+    <file name="4282x282.jpg" crc="330148632" seo="true" ref="design"/>
+    <file name="7282x282.jpg" crc="4086088041" seo="true" ref="design"/>
   </folder>
-  <file name="index.html" crc="3836720223" seo="true" mt="1547044892888" redirect="true"/>
-  <file name="motion.html" crc="3766623599" seo="true" mt="1547044892888" redirect="true"/>
-  <file name="design.html" crc="3919615703" seo="true" mt="1547044892888" redirect="true"/>
+  <file name="index.html" crc="4158290770" seo="true" mt="1550148140967" redirect="true"/>
+  <file name="motion.html" crc="238386831" seo="true" mt="1550148151575" redirect="true"/>
+  <file name="design.html" crc="4042633900" seo="true" mt="1550155918547" redirect="true"/>
 </manifest>
